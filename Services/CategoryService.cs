@@ -18,7 +18,7 @@ namespace FlowerInventory.Services
             return await _context.Categories.Include(c => c.Flowers).ToListAsync();
         }
 
-        public async Task<Category> GetCategoryByIdAsync(int id)
+        public async Task<Category?> GetCategoryByIdAsync(int id)
         {
             return await _context.Categories.Include(c => c.Flowers).FirstOrDefaultAsync(c => c.CategoryId == id);
         }

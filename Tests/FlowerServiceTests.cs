@@ -1,3 +1,4 @@
+using System;
 using FlowerInventory.Data;
 using FlowerInventory.Models;
 using FlowerInventory.Services;
@@ -16,7 +17,7 @@ namespace FlowerInventory.Tests
         public FlowerServiceTests()
         {
             var options = new DbContextOptionsBuilder<FlowerShopContext>()
-                .UseInMemoryDatabase(databaseName: "TestDatabase")
+                .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString()) // Unique DB per test class instance
                 .Options;
 
             _context = new FlowerShopContext(options);
