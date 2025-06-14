@@ -1,8 +1,8 @@
-using WebApplication1.Data;
-using WebApplication1.Models;
+using FlowerInventory.Data;
+using FlowerInventory.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace WebApplication1.Services
+namespace FlowerInventory.Services
 {
     public class CategoryService
     {

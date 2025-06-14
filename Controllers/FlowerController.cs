@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using WebApplication1.Services;
-using WebApplication1.Models;
+using FlowerInventory.Services;
+using FlowerInventory.Models;
 
-namespace WebApplication1.Controllers
+namespace FlowerInventory.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

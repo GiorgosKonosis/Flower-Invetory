@@ -1,0 +1,8 @@
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.csproj.AssemblyReference.cache
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.AssemblyInfoInputs.cache
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.AssemblyInfo.cs
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.csproj.CoreCompileInputs.cache
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GiorgosK\Documents\Flower-inventory-system\Flower-Backend\obj\Debug\net8.0\FlowerInventory.sourcelink.json

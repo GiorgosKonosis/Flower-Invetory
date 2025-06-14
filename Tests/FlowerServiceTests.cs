@@ -1,12 +1,12 @@
-using WebApplication1.Data;
-using WebApplication1.Models;
-using WebApplication1.Services;
+using FlowerInventory.Data;
+using FlowerInventory.Models;
+using FlowerInventory.Services;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace WebApplication1.Tests
+namespace FlowerInventory.Tests
 {
     public class FlowerServiceTests
     {

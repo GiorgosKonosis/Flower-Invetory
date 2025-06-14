@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication1.Data;
+using FlowerInventory.Data;
 
 #nullable disable
 
-namespace WebApplication1.Migrations
+namespace FlowerInventory.Migrations
 {
     [DbContext(typeof(FlowerShopContext))]
     [Migration("20250614072934_InitialCreate")]

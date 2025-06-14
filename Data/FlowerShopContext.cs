@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Models;
+using FlowerInventory.Models;
 
-namespace WebApplication1.Data
+namespace FlowerInventory.Data
 {
     public class FlowerShopContext : DbContext
     {

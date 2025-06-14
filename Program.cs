@@ -1,4 +1,4 @@
-using WebApplication1.Data;
+using FlowerInventory.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
